@@ -106,8 +106,9 @@ interests:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dani3lLopez&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dani3lLopez&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.shion.dev/api?username=Dani3lLopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Dani3lLopez&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dani3lLopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </p>
 
 <p align="center">
