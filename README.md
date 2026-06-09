@@ -106,13 +106,12 @@ interests:
 ## 📊 GitHub Analytics
 
 <p align="center">
-![](https://github-readme-stats.shion.dev/api?username=Dani3lLopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Dani3lLopez&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Dani3lLopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Dani3lLopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Dani3lLopez&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dani3lLopez&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dani3lLopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ---
