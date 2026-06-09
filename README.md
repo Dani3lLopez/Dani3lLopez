@@ -2,9 +2,7 @@
 
 # 👋 Hi, I'm Daniel López
 
-### Full Stack Developer • Software Engineer • Lifelong Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Java+%7C+Laravel+%7C+React+Developer;Passionate+About+Software+Architecture;Always+Learning+New+Technologies" alt="Typing SVG" />
+### Full Stack Developer • Entrepreneur  • Innovator
 
 </div>
 
@@ -126,14 +124,6 @@ interests:
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dani3lLopez&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
----
-
 ## 📋 Profile Summary
 
 <p align="center">
@@ -142,31 +132,9 @@ interests:
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Dani3lLopez/Dani3lLopez/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-> **Note:** You'll need to configure a GitHub Action to generate the snake animation.
-
----
-
 ## 💡 Favorite Quote
 
 > "First, solve the problem. Then, write the code."
-
----
-
-## 🎵 Coding Playlist
-
-<p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
-  </a>
-</p>
-
-> Optional: Requires deploying a Spotify integration.
 
 ---
 
@@ -177,11 +145,3 @@ interests:
 </p>
 
 ---
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-Building software, solving problems, and continuously learning.
-
-</div>
