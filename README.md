@@ -114,16 +114,6 @@ interests:
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Dani3lLopez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dani3lLopez&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 📋 Profile Summary
 
 <p align="center">
